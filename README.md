@@ -13,7 +13,7 @@ I worked on several projects (that you can find on Github):
 
 <h2 aligne="left"> Contact me</h2>
 
-- 📫 E-mail me : <a href="mailto:lylian.challier@univerite-paris-saclay.fr">lylian.challier@universite-paris-saclay.fr</a> 
+- 📫 E-mail me : <a href="mailto:lylian.challier@universite-paris-saclay.fr">lylian.challier@universite-paris-saclay.fr</a> 
 
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="20" /> Connect with me : <a href="https://linkedin.com/in/lylian-challier" target="blank">linkedin.com/in/lylian-challier</a>
 
