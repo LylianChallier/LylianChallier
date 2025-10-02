@@ -5,6 +5,7 @@ MSc student at CentraleSupélec, specialized in mathematics, AI, machine learnin
 This year I was selected for the Digital Tech Year selective track, an innovation program, and awarded the MathTech Gap Year fellowship (4 laureates, FMJH). This experience bridges real-world AI innovation with my PhD-oriented research goals.
 
 I worked on several projects (that you can find on Github): 
+- 🏰 Agentic AI visit assistant for touristic tours in Versailles castle @VersaillesCastle (with LangChain and LangGraph)
 - ⚗️ Explainable AI to discover wall laws in turbulent convection @LISN/CNRS (with SINDy and KAN models)
 - 🌇 Variational Auto-Encoders @UPSaclay (implementation & streamlit app)
 - 💡 Electric Demand Forecasting @UPSaclay/EDF (with Deep Learning)
