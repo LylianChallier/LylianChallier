@@ -5,11 +5,11 @@ MSc student at CentraleSupélec, specialized in mathematics, AI, machine learnin
 This year I was selected for the Digital Tech Year selective track, an innovation program, and awarded the MathTech Gap Year fellowship (4 laureates, FMJH). This experience bridges real-world AI innovation with my PhD-oriented research goals.
 
 I worked on several projects (that you can find on Github): 
-- Explainable AI to discover wall laws in turbulent convection @LISN/CNRS (with SINDy and KAN models)
-- Variational Auto-Encoders @UPSaclay (implementation & streamlit app)
-- Electric Demand Forecasting @UPSaclay/EDF (with Deep Learning)
-- Predictive Modeling for Energy Consumption @UPSaclay/EDF (with R)
-- Movie Recommendations with unsupervised learning @UdeMontreal
+- ⚗️ Explainable AI to discover wall laws in turbulent convection @LISN/CNRS (with SINDy and KAN models)
+- 🌇 Variational Auto-Encoders @UPSaclay (implementation & streamlit app)
+- 💡 Electric Demand Forecasting @UPSaclay/EDF (with Deep Learning)
+- ⚡️ Predictive Modeling for Energy Consumption @UPSaclay/EDF (with R)
+- 🎬 Movie Recommendations with unsupervised learning @UdeMontreal
 
 
 <h2 aligne="left"> Contact me</h2>
@@ -19,7 +19,7 @@ I worked on several projects (that you can find on Github):
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="20" /> Connect with me : <a href="https://linkedin.com/in/lylian-challier" target="blank">linkedin.com/in/lylian-challier</a>
 
 
-<h2>Language and tools</h2>
+<h2>⚙️ Language and tools ⚙️</h2>
 
 <div>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -28,7 +28,6 @@ I worked on several projects (that you can find on Github):
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green" alt="langChain">
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
