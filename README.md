@@ -1,4 +1,4 @@
-<h1>Hello! Nice to meet you, I'm Lylian Challier 👋</h1>
+<h1>Hello! I'm Lylian Challier</h1>
 
 MSc student at CentraleSupélec, specialized in mathematics, AI, machine learning and deep learning, applying for a 6 month experience starting March 2026 as a step toward for a future industrial PhD.
 
@@ -15,7 +15,7 @@ I worked on several projects (that you can find on Github):
 
 <h2 aligne="left"> Contact me</h2>
 
-- 📫 E-mail me : <a href="mailto:lylian.challier@universite-paris-saclay.fr">lylian.challier@universite-paris-saclay.fr</a> 
+- 📫 E-mail me : <a href="mailto:lylian.challier@student-cs.fr">lylian.challier@universite-paris-saclay.fr</a> 
 
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="20" /> Connect with me : <a href="https://linkedin.com/in/lylian-challier" target="blank">linkedin.com/in/lylian-challier</a>
 
