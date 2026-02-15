@@ -11,8 +11,9 @@ MSc student at CentraleSupélec, specialized in applied mathematics, AI, machine
 
 <h3>⚙️ Language and tools ⚙️</h3>
 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy,pandas,r,django,fastapi,mysql,html,css,react,docker,git,latex,streamlit)](https://skillicons.dev)
+
 <div>
-<img src="https://logowik.com/content/uploads/images/bash-icon2399.logowik.com.webp" alt="bash">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
 <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
