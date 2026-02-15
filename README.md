@@ -1,28 +1,18 @@
-<h1>Hello! I'm Lylian Challier</h1>
+<h2>HI! MY NAME IS SL.. LYLIAN</h2>
 
-MSc student at CentraleSupélec, specialized in mathematics, AI, machine learning and deep learning, applying for a 6 month experience starting March 2026 as a step toward for a future industrial PhD.
+MSc student at CentraleSupélec, specialized in applied mathematics, AI, machine learning and deep learning.
 
-This year I was selected for the Digital Tech Year selective track, an innovation program, and awarded the MathTech Gap Year fellowship (4 laureates, FMJH). This experience bridges real-world AI innovation with my PhD-oriented research goals.
-
-I worked on several projects (that you can find on Github): 
-- 🏰 Agentic AI visit assistant for touristic tours @VersaillesCastle (with LangChain and LangGraph)
-- ⚗️ Explainable AI to discover wall laws in turbulent convection @LISN/CNRS (with SINDy and KAN models)
-- 🌇 Variational Auto-Encoders @UPSaclay (implementation & streamlit app)
-- 💡 Electric Demand Forecasting @UPSaclay/EDF (with Deep Learning)
-- ⚡️ Predictive Modeling for Energy Consumption @UPSaclay/EDF (with R)
-- 🎬 Movie Recommendations with unsupervised learning @UdeMontreal
-
-
-<h2 aligne="left"> Contact me</h2>
+<h3 aligne="left"> Contact me</h3>
 
 - 📫 E-mail me : <a href="mailto:lylian.challier@student-cs.fr">lylian.challier@student-cs.fr</a> 
 
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="12" width="20" /> Connect with me : <a href="https://linkedin.com/in/lylian-challier" target="blank">linkedin.com/in/lylian-challier</a>
 
 
-<h2>⚙️ Language and tools ⚙️</h2>
+<h3>⚙️ Language and tools ⚙️</h3>
 
 <div>
+<img src="https://logowik.com/content/uploads/images/bash-icon2399.logowik.com.webp" alt="bash">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
 <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
